@@ -1,0 +1,57 @@
+{
+  "fragmentos": 17,
+  "recorde_noite": 7,
+  "chefes_derrotados": 6,
+  "monstros_derrotados": 638,
+  "marcos_noite": [],
+  "melhorias": {
+    "prosperidade": 0,
+    "poder": 0,
+    "resistencia": 0,
+    "reflexos": 0,
+    "engenharia": 0
+  },
+  "moedas_totais": 27509,
+  "tempo_jogado": 4788,
+  "habilidades_usadas": 142,
+  "conquistas": [
+    "chefes_5",
+    "monstros_500"
+  ],
+  "missoes_coletadas": [],
+  "inimigos_vistos": [
+    "explosivo",
+    "chefe_diretor",
+    "corredor",
+    "chefe_devorador",
+    "normal",
+    "bruto",
+    "fantasma"
+  ],
+  "ambiente_atual": "hospital_abandonado",
+  "ambientes_desbloqueados": [
+    "hospital_abandonado"
+  ],
+  "campanha": {
+    "andar_atual": 1,
+    "andares_desbloqueados": [
+      1
+    ],
+    "chefes_campanha_derrotados": [],
+    "modo_pesadelo": false,
+    "campanha_concluida": false
+  },
+  "fragmentos_lendarios": 4,
+  "lendarios_desbloqueados": [
+    "cofre_supremo",
+    "espingarda_suprema",
+    "laser_supremo",
+    "terremoto"
+  ],
+  "lendarios_anuncios": {
+    "terremoto": 25,
+    "cofre_supremo": 23,
+    "laser_supremo": 29,
+    "espingarda_suprema": 31
+  }
+}
